@@ -7,3 +7,4 @@ names = zip(first,second)
 
 for a,b in names:
     print(a,b)
+
